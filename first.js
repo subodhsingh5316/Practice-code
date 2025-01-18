@@ -1,4 +1,4 @@
-console.log("--------sapana\n kumari ----")
+
 var a =10; //var stands for variable
 var b = 20
 
